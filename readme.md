@@ -4,6 +4,8 @@
 
 Hola explorer 👋 
 
+https://almaheco.github.io/my_launchx_blog/
+
 Realiza las indicaciones de la weekly mission y monta tu propio blog. Espero que te sirva como bitácora de aprendizaje para compartir todas tus experiencias de Launch X. 
 
 Así como también puedes crear tu **Workbook**:
