@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://almaheco.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Listo para usar otras herramientas</title>
+      <link>https://almaheco.github.io/my_launchx_blog/posts/post_2/</link>
+      <pubDate>Sat, 30 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://almaheco.github.io/my_launchx_blog/posts/post_2/</guid>
+      <description>Listo para usar otras herramientas Me gusta utilizar la consola, es lo que siento que me hace un programador de verdad, tal vez pueda sonar algo tonot, pero de verdad respeto a las personas que pueden controlar la computadora desde de su consola, auqneu soy usuario de windows y he visto que no se presa mucho para este tipo de situaciones, de verdad me gustaria poder entenderlo. Por lo pronto, voy a continuar con las practicas mientras veo como mejorar con JS.</description>
+    </item>
+    
+    <item>
       <title>Título de tu blog post</title>
       <link>https://almaheco.github.io/my_launchx_blog/posts/post_1/</link>
       <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
@@ -23,15 +32,6 @@
       
       <guid>https://almaheco.github.io/my_launchx_blog/posts/intro/</guid>
       <description>Para mi la cultura profesional es:  Respeto Integridad Honestidad Disciplina Diversion Superteacion personal  </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://almaheco.github.io/my_launchx_blog/posts/post_2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://almaheco.github.io/my_launchx_blog/posts/post_2/</guid>
-      <description>Listo para usar otras herramientas Me gusta utilizar la consola, es lo que siento que me hace un programador de verdad, tal vez pueda sonar algo tonot, pero de verdad respeto a las personas que pueden controlar la computadora desde de su consola, auqneu soy usuario de windows y he visto que no se presa mucho para este tipo de situaciones, de verdad me gustaria poder entenderlo. Por lo pronto, voy a continuar con las practicas mientras veo como mejorar con JS.</description>
     </item>
     
   </channel>
