@@ -1,3 +1,9 @@
+---
+title: "Listo para usar otras herramientas"
+date: 2022-04-30
+description: 'listo para nuevas herramientas'
+---
+
 # Listo para usar otras herramientas
 
 Me gusta utilizar la consola, es lo que siento que me hace un programador de verdad, tal vez pueda sonar algo tonot, pero de verdad respeto a las personas que pueden 
