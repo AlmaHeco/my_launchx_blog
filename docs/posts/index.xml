@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://almaheco.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Diferencia de modulos</title>
+      <link>https://almaheco.github.io/my_launchx_blog/posts/post_3/</link>
+      <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://almaheco.github.io/my_launchx_blog/posts/post_3/</guid>
+      <description>Diferencia de modulos A ver, pude medio entender acerca de la diferencia entre common JS y ESM y es que el common JS funciona por medio de exports y requires, en cambio ESM funciona por medion de export e import froms.</description>
+    </item>
+    
+    <item>
       <title>Listo para usar otras herramientas</title>
       <link>https://almaheco.github.io/my_launchx_blog/posts/post_2/</link>
       <pubDate>Sat, 30 Apr 2022 00:00:00 +0000</pubDate>
@@ -32,15 +41,6 @@
       
       <guid>https://almaheco.github.io/my_launchx_blog/posts/intro/</guid>
       <description>Para mi la cultura profesional es:  Respeto Integridad Honestidad Disciplina Diversion Superteacion personal  </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://almaheco.github.io/my_launchx_blog/posts/post_3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://almaheco.github.io/my_launchx_blog/posts/post_3/</guid>
-      <description></description>
     </item>
     
   </channel>
